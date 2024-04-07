@@ -31,12 +31,12 @@ def HelloWorld(name):
 ### Please feel free to connect with me on [Linkdin](https://www.linkedin.com/in/nikhil-mahendran-7a12a828a/)
 
 ## Section Links
-[About me](#about-me)
-[Programming Journey](#programming-journey)
-[Achievments](#achievements)
+- [About me](#about-me)
+- [Programming Journey](#programming-journey)
+- [Achievments](#achievements)
 
 ## Relative Links
-[README](README.md)
+- [README](README.md)
 
 - [x] Complete Github User page
 - [ ] Create github pages theme
