@@ -19,7 +19,7 @@
 
 ### Achievements
 
-  > Chat site with a chatbot
+  > Chat site with a chatbot <br/>
   > Fully automated algorithmic stock trading bot
 
 ### Code Sample
